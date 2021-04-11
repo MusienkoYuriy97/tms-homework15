@@ -4,13 +4,12 @@ _метод unmarshallStudent() из класса StudentUnmarshall достае
 
 _для подключения к базе данных исользуются файл dao.properties, классы Config.java в пакете config и класс MySqlConnection.java_
 
-_Класс CreateStudentsTableDaoImp_ - создает таблицы в базе данных
+_методы класса CreateStudentsTableDaoImp_ - создают таблицы в базе данных
 
-_Класс InsertStudentsDaoImp_ - заполняет данными таблицы в базе данных
+_методы класса InsertStudentsDaoImp_ - заполняют данными таблицы в базе данных
 
-_Класс SelectStudentsDaoIp_ - достает нужные нам результаты по задаче
+_методы класса SelectStudentsDaoIp_ - достают нужные нам результаты по задаче
 
-_Класс Main_ запускает решение задачи через метод main
 
 
 ## Описание задачи
